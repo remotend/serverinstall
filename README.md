@@ -26,3 +26,7 @@ chmod +x install.sh
 ```
 
 Follow the options given in the script.
+to restart:
+sudo systemctl restart remotendsignal
+sudo systemctl restart remotendrelay
+
